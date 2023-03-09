@@ -1,0 +1,8 @@
+@media screen and (max-width: 1402px) {
+    header {
+        width: 95%;
+    }
+    .home {
+        width: 80%;
+    }
+}
